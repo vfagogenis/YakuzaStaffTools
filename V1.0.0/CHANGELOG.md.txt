@@ -1,0 +1,15 @@
+# Changelog
+
+## v1.0.0
+
+Initial stable release.
+
+### Added
+- Staff Online HUD
+- Spy Chat HUD
+- Yakuza Watchdog HUD
+- Chat tabs: Yakuza, Vanilla, Watchdog, Spy
+- Numpad moderation actions
+- Settings screen
+- HUD position editor
+- Fabric client-side support for Minecraft 1.21.11
