@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "yakuzastafftools",
+  "version": "${version}",
+  "name": "Yakuza Staff Tools",
+  "description": "Client-side staff moderation utility for Advancius Network and Shinigami Valley Network.",
+  "authors": ["Vasileios Fagogenis"],
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "oscp.fagogenisv.yakuzastafftools.YakuzaStaffToolsClient"
+    ]
+  },
+  "mixins": [
+    "yakuzastafftools.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21"
+  }
+}
