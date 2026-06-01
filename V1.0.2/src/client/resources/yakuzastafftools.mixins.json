@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "oscp.fagogenisv.yakuzastafftools.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChatCaptureMixin",
+    "ChatHudMixin",
+    "HudRenderMixin",
+    "MinecraftClientTickMixin",
+    "GameMenuScreenMixin",
+    "ChatScreenMixin",
+    "BcsCommandMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
