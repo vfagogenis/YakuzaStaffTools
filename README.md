@@ -1,27 +1,35 @@
-## Network Compatibility
+Network Compatibility
 
-Yakuza Staff Tools is a specialized moderation utility developed exclusively for:
+Yakuza Staff Tools is a specialized moderation utility developed exclusively for the following networks:
 
-* Shinigami Valley Network
-* Advancius Network
+Shinigami Valley Network
+Advancius Network
 
-The mod is designed around the moderation workflows, chat formats, watchdog alerts, staff procedures, and operational requirements of these networks.
+The mod is designed around the moderation workflows, staff procedures, chat formats, watchdog alerts, and operational requirements of these specific networks.
 
 Compatibility with other Minecraft servers is not guaranteed and is not an official development objective.
 
-## Intended Use
+Intended Use
 
-This software is intended solely for authorized staff members operating within:
+This software is intended only for authorized staff members operating within:
 
-* Shinigami Valley Network
-* Advancius Network
+Shinigami Valley Network
+Advancius Network
 
-The mod provides quality-of-life improvements for moderation activities by organizing information already available to staff members into a more efficient and accessible interface.
+Yakuza Staff Tools provides quality-of-life improvements for moderation activities by organizing information already available to staff members into a faster, cleaner, and more accessible interface.
 
-Unauthorized use, redistribution, modification, reverse engineering, or deployment outside the intended networks may result in loss of support and future compatibility.
+It is not designed to bypass permissions, automate gameplay, interfere with server systems, or provide unfair gameplay advantages.
 
-## Notice
+Restrictions
+
+Unauthorized use, redistribution, modification, reverse engineering, or deployment outside the intended networks is not permitted and may result in:
+
+Loss of support
+Loss of future compatibility
+Removal of access
+Exclusion from official development updates
+Notice
 
 Yakuza Staff Tools is not a public utility mod.
 
-It is an internal moderation tool developed specifically to support the operational needs of the staff teams of those specific Networks.
+It is an internal moderation tool developed specifically to support the operational needs of the authorized staff teams of Shinigami Valley Network and Advancius Network.
